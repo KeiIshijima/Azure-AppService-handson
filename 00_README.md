@@ -58,7 +58,7 @@ Microsoft Azure では、完全な静的 Web アプリケーションであれ�
 
 - [**git ツール**](https://git-scm.com/downloads)
 
-詳細については、ハンズオンの [**事前準備**](preparation.md)をご覧ください。
+詳細については、ハンズオンの [**事前準備**](01_preparation.md)をご覧ください。
 
 <br>
 
