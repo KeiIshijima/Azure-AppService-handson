@@ -99,8 +99,8 @@ GitHub を使用するためには git ツールが必要になりますので�
 
  1. 以下の URL にアクセスし、画面内のボタン \[**Use this template**\] をクリックし、表示されたドロップダウンリストから \[**Create a new repository**\] を選択します  
 
-      https://github.com/osamum/MvcMovie 
-      <img src="images/template-button.png" width="700px">
+      https://github.com/KeiIshijima/MvcMovie 
+      <img src="images/template-button3.png" width="700px">
 
       <br>
     
